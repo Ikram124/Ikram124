@@ -1,15 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/ikram-ben-maamar-554b1a293/">Ikram Ben Maamar</a></h2>
 
-<p>I'm a <strong>Cybersecurity Analyst</strong> and <strong>Cryptography Researcher</strong> passionate about securing systems, uncovering vulnerabilities, and empowering others through cybersecurity education.  
-Currently pursuing my Master's in <strong>Cryptography & Information Security</strong> at <strong>Batna 2 University</strong>, while working remotely on real-world projects with <a href="https://futureinterns.io/">Future Interns</a> as part of a cybersecurity internship. 🛡️</p>
-
-<p>
-<a href="https://ikram124.github.io/"><img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&logo=Firefox&logoColor=white" alt="Website Badge"></a>
-<a href="https://github.com/Ikram124"><img src="https://img.shields.io/badge/-@Ikram124-0A0A0A?style=flat-square&logo=github" alt="GitHub Badge"></a>
-<a href="https://www.linkedin.com/in/ikram-ben-maamar-554b1a293/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://tryhackme.com/p/Ikram124"><img src="https://img.shields.io/badge/-TryHackMe-E83E8C?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"></a>
-<a href="mailto:ikram.benmaamar@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"></a>
-</p>
 
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/ikram-ben-maamar-554b1a293/">Ikram Ben Maamar</a></h2>
 
@@ -25,7 +14,7 @@ Currently pursuing my Master's in <strong>Cryptography & Information Security</s
 </p>
 
 <!-- Terminal-style hacker GIF (dark, code-rain aesthetic) -->
-<img align="right" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="Terminal hacker GIF" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWllbTRzZnozd2MyZXNuenZlZ25iZmpvb3dlcThnYTE5eGk1YnJpdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wiTY1JMB6xvUUjuPRH/giphy.gif" width="260" alt="Terminal hacker GIF" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
